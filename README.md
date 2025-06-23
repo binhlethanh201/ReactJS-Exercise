@@ -1,4 +1,4 @@
-# Getting Started with React and Node.js Project
+# Getting Started with Project
 
 This project includes a frontend built with React and utility scripts written in JavaScript for Node.js.
 
